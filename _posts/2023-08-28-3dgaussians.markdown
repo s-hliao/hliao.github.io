@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "Integrating Adversarial Competitions in University Programming Education: An Experience Report"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Henry Liao
+authors: "<strong>Henry Liao<strong>*, Tyler Kwok*, Emmanuel Munoz, Pedro Guillermo Feijóo-García, Thad Starner, Abrahim Ladha"
 venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We implemened ByteFight as a live, scalable services for use as part of an existing graduate computer science course. We then conducted a study on student perceptions of learning when using the ByteFight competition as part of that course, with students reporting generally positive sentiment. ByteFight has since been used multiple times as part of Georgia Tech's computer science curriculum to teach applicable AI skills to graduate and undergraduate students.
